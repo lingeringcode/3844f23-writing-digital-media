@@ -50,3 +50,4 @@ book/data/kaggle
 book/data/04-textual-analysis/jeopardy/Jeopardy-Questions.csv
 book/data/05-ML/flickr
 book/data/04-textual-analysis/amazon/video_game_reviews_*.txt
+*.pkl
