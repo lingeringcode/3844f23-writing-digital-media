@@ -22,10 +22,10 @@ seaborn
 wquantiles
 statsmodels
 # upgrade to latest docu when they accomodate new tmtoolkit version
-docuscospacy
-tmtoolkit==0.11.2
+# docuscospacy
+# tmtoolkit==0.11.2
 # CLIP IMAGE ML
-timm
-opencv-python
+# timm
+# opencv-python
 albumentations
 transformers
